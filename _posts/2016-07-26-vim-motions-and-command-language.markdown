@@ -10,7 +10,7 @@ tags : [vim]
 
 This is the second post in the vim series. You might be interested in reading through my previous post before you continue reading (especially if you are a real beginner):
 
-* [5 Tips to Survive Your First Week](http://devblog.springest.com/vim-5-tips-to-survive-your-first-week)
+* [5 Tips to Survive Your First Week](http://www.miriamtocino.com/articles/5-tips-to-survive-your-first-week)
 
 In this post we will dive into some subjects that you need to master when working with Vim. The very first one is motions, also known as _how to get your cursor where you want it_.
 
