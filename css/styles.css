@@ -1,36 +1,5 @@
 @charset "UTF-8";
-/*------------------------------------*\
-    STYLES
-    Made with ♥ by Miriam Tocino
-    miriam.tocino@gmail.com
-\*------------------------------------*/
-/*------------------------------------*\
-    UTILITIES
-\*------------------------------------*/
-/*------------------------------------*\
-    UTILITIES
-    Global
-\*------------------------------------*/
-/*------------------------------------*\
-    FUNCTIONS
-\*------------------------------------*/
-/*------------------------------------*\
-    UTILITIES
-    Vendor Prefixes
-\*------------------------------------*/
-/*------------------------------------*\
-    UTILITIES
-    Mixins
-\*------------------------------------*/
-/*------------------------------------*\
-    UTILITIES
-    FONTS
-\*------------------------------------*/
 @import url("http://fonts.googleapis.com/css?family=Raleway:400,500,700");
-/*------------------------------------*\
-    UTILITIES
-    Helpers
-\*------------------------------------*/
 .srt {
   border: 0;
   clip: rect(0 0 0 0);
@@ -41,31 +10,6 @@
   position: absolute;
   width: 1px;
 }
-
-/*------------------------------------*\
-    BASE
-    _index.scss
-    # reset, typography, site-wide
-\*------------------------------------*/
-/*------------------------------------*\
-    BREAKPOINT
-    Media queries breakpoints
-    Define the breakpoints at which your layout will change,
-    adapting to different screen sizes.
-\*------------------------------------*/
-/*------------------------------------*\
-    SUSY SET-UP
-\*------------------------------------*/
-/*------------------------------------*\
-    NORMALIZE
-    HTML5 display definitions
-    normalize.css v1.1.3
-    MIT License
-    git.io/normalize
-\*------------------------------------*/
-/**
- * Correct `block` display not defined in IE 6/7/8/9 and Firefox 3.
- */
 article,
 aside,
 details,
@@ -80,10 +24,6 @@ section,
 summary {
   display: block;
 }
-
-/**
- * Correct `inline-block` display not defined in IE 6/7/8/9 and Firefox 3.
- */
 audio,
 canvas,
 video {
@@ -91,34 +31,13 @@ video {
   *display: inline;
   *zoom: 1;
 }
-
-/**
- * Prevent modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
- */
 audio:not([controls]) {
   display: none;
   height: 0;
 }
-
-/**
- * Address styling not present in IE 7/8/9, Firefox 3, and Safari 4.
- * Known issue: no IE 6 support.
- */
 [hidden] {
   display: none;
 }
-
-/*------------------------------------*\
-    NORMALIZE
-    Base
-\*------------------------------------*/
-/**
- * 1. Correct text resizing oddly in IE 6/7 when body `font-size` is set using
- *    `em` units.
- * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
- */
 html {
   font-size: 100%;
   /* 1 */
@@ -127,11 +46,6 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */
 }
-
-/**
- * Address `font-family` inconsistency between `textarea` and other form
- * elements.
- */
 html,
 button,
 input,
@@ -1218,7 +1132,7 @@ main {
   padding: 3em 1.8em 0;
 }
 main .content {
-  max-width: 700px;
+  max-width: 850px;
 }
 main .content h3, main .content h3 a {
   color: #d33682;
@@ -1232,6 +1146,7 @@ main .content h3 {
 }
 main aside {
   display: none;
+  max-width: 300px;
 }
 @media (min-width: 769px) {
   main {
@@ -1244,7 +1159,7 @@ main aside {
   main aside {
     display: block;
     padding-top: 2em;
-    padding-left: 2em;
+    padding-left: 3em;
   }
 }
 
@@ -1307,6 +1222,9 @@ main aside {
 }
 .mod-post.archive h4 {
   margin-top: 0;
+}
+.mod-post hr {
+  border-top: 1px solid #eeeeee;
 }
 .mod-post h3, .mod-post h3 a {
   color: #d33682;

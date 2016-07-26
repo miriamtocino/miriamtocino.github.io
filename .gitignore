@@ -5,3 +5,4 @@ _assets
 .sass-cache
 .idea/inspectionProfiles
 .sass-cache
+config.codekit
