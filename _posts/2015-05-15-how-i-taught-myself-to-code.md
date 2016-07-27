@@ -56,37 +56,43 @@ You can also [check here](http://www.miriamtocino.com/elearning.html) a complete
 
 ![](http://miriamtocino.github.io/images/posts/workflow.png)
 
-### 5 tips to stay on track
+#### 5 tips to stay on track
 
 During that time I discovered other things to be as important as following these courses.
 
-#### Find a partner
+##### 1. Find a partner
 
 The first one, I had a partner. I had someone to talk to, even if he was not an expert in that technology. Which was **specially important in those days when my code was broken**...
 
-#### Watch tech talks
+---
+
+##### 2. Watch tech talks
 
 This is something that I discovered half of the way: watch Tech Talks. I used to watch one talk per day, most of the times during lunch. **It helped me to keep the motivation up**. Again, at [Treehouse](https://teamtreehouse.com/features/conferences) there are a lot of them. Totally recommended!
 
 ![](http://miriamtocino.github.io/images/posts/treehouse-conferences.png)
 
-#### Start a pet project
+---
+
+##### 3. Start a pet project
 
 This one was crucial. What you build is definitely not important. But once you have some knowledge, starting a pet project **is the best way to keep learning**. In my case I found a person online interested to build a web application. He was preparing for a big exam and the site would help him with that. He needed to introduce new topics, questions and their answers. I learned A LOT with this project.
 
 ![](http://miriamtocino.github.io/images/posts/cnp-quiz.png)
 
-#### Breath in & keep coding
+---
+
+##### 4. Breath in & keep coding
 
 This one took me a little bit more time to get. When something doesn’t make sense and you try and try and still nothing… leave it. Just keep going. If you hang in there for too long you might lose your motivation. **And surprisingly one day, when you do not expect it, you will get it**!
 
-#### Keep an eye on job opportunities
+---
+
+##### 5. Keep an eye on job opportunities
 
 And the last one, keep an eye on job opportunities. I used to have _dark moments_ every Sunday evening. **I wondered whether I was learning something that people were asking for**. And that’s when I was checking jobs descriptions.
 
----
-
-### Life As A Web Developer
+#### Life As A Web Developer
 
 Four months after I started this whole process, I saw a job offer for an internship. I had studied everything that they were asking for. So I applied for it and two weeks later I was already working there. **After a month in the company, they promoted me to a junior developer**.
 
