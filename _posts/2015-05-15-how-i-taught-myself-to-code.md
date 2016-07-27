@@ -2,13 +2,15 @@
 layout: post
 title: "How I Taught Myself to Code"
 date: May 15, 2015
-tagline: "Combining Online E-Learning Resources"
+tagline: "Combining Online Learning Resources"
 tags : []
 ---
 
 Back in 2002 I went to college and studied architecture. At that time pursuing a career in tech did not cross my mind.
 
 After graduating college I worked as an architect during 5 years and in different countries. During that time I saw how some of the projects I worked on were built, such as a [community-centre in Belgium](http://www.domusweb.it/en/architecture/2013/11/01/marc_koehler_architects_community_home.html), an [office building in China](http://www.philippmainzer.com/en/projects/taiwan-glass-qfg-qingdao-taiwan-2012) or a [private house in Amsterdam](http://www.archdaily.com/244101/house-like-village-marc-koehler-architects/).
+
+> You can also [check out my story in video](https://www.youtube.com/watch?v=zrWKPl5Bc5c). Or have a look at the [slides](http://www.miriamtocino.com/projects/miriam_tocino_how_i_taught_myself_to_code.pdf) for that talk.
 
 #### Architecture & Software Development Similarities
 
