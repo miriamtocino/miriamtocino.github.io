@@ -20,8 +20,8 @@ permalink: /articles/:title
 paginate: 30
 
 navigation:
-  # - title: Resources
-  #   url: /resources.html
+  - title: Resources
+    url: /resources.html
   - title: Elearning
     url: /elearning.html
   - title: Bookshelf
