@@ -3,7 +3,7 @@ layout: post
 title: "Vim: Buffers, Tabs, Windows & Modes"
 date: August 2, 2016
 tagline: "Learning how to navigate & organize your screen"
-tags : [vim]
+categories: [vim]
 ---
 
 ![][vim-logo]

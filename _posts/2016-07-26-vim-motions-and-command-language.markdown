@@ -3,7 +3,7 @@ layout: post
 title: "Vim: Motions & Command Language"
 date: July 26, 2016
 tagline: "Learning how to move, jump and edit"
-tags : [vim]
+categories: [vim]
 ---
 
 ![][vim-logo]

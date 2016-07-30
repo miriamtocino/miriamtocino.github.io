@@ -3,14 +3,14 @@
   $.fn.categories = function(options) {
     var defaults = {
       noBackToTopLinks: false,
-      title: '<h4>Content</h4>',
+      title: '<h4></h4>',
       listType: 'ul', // values: [ol|ul]
       showEffect: 'show', // values: [show|slideDown|fadeIn|none]
       showSpeed: 'slow' // set to 0 to deactivate effect
     },
     settings = $.extend(defaults, options);
 
-    var headers = $('.category-title').filter(function() {
+    var headers = $('h4.category-title').filter(function() {
       // get all headers with an ID
       if (!this.id) {
         // this.id = $(this).attr( "id", $(this).prev().attr( "name" ).replace(/\./g, "-") );

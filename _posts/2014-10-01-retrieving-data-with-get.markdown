@@ -3,21 +3,20 @@ layout: post
 title: "Retrieving Data with GET"
 date: October 1, 2014
 tagline: "Symfony Web Service Part 2"
-tags : [symfony, webservice]
+categories: [symfony]
 ---
 
 ![Retrieving Data with GET](http://miriamtocino.github.io/images/posts/web-service-get.svg)
 
-_This article is part of a series about how to build a **web wervice for an iOS eLearning iPad app**. So far there have been articles on [Introduction Symfony Web Service](http://www.miriamtocino.com/articles/symfony-web-service-introduction/) and [Creating Data with POST](http://www.miriamtocino.com/articles/creating-data-with-post/)._
+This article is part of a series about how to build a **web wervice for an iOS eLearning iPad app**. So far there have been articles on [Introduction Symfony Web Service](http://www.miriamtocino.com/articles/symfony-web-service-introduction/) and [Creating Data with POST](http://www.miriamtocino.com/articles/creating-data-with-post/).
 
 - - -
 
-_**NOTE**: The project database stores data coming from different iOS apps. That's why the URIs in this article need to include information about the application we are refering to. If your web service is used just for one application, it won't be necessary that you specify this field in your URIs._
+**NOTE**: The project database stores data coming from different iOS apps. That's why the URIs in this article need to include information about the application we are refering to. If your web service is used just for one application, it won't be necessary that you specify this field in your URIs.
 
 - - -
 
-_**NOTE**: The following recommendations come from the [Internet Engineering Task Force (IETF) and the Internet Society](http://en.wikipedia.org/wiki/Internet_Engineering_Task_Force), the principal technical development and standards-setting bodies for the Internet._
-
+**NOTE**: The following recommendations come from the [Internet Engineering Task Force (IETF) and the Internet Society](http://en.wikipedia.org/wiki/Internet_Engineering_Task_Force), the principal technical development and standards-setting bodies for the Internet.
 
 
 #### Introduction

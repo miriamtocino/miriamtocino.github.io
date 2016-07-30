@@ -3,7 +3,7 @@ layout: post
 title: "Some similarities between architecture and web design"
 date: January 1, 2015
 tagline: "..."
-tags : [workflow, architecture]
+categories: [workflow, architecture]
 ---
 
 I usually find myself looking for similarities between architecture and web design. And today it happened again. I am reading _Responsive Design Workflow_ by Stephen Hay, which I bought after seeing one of his latest talks [The Zero Interface: Use Zero-based Thinking to Maintain Simplicity](http://teamtreehouse.com/library/future-of-web-design-london-2014/the-zero-interface-use-zerobased-thinking-to-maintain-simplicity) at the [Future of Web Design - London 2014](https://futureofwebdesign.com/london-2014/).

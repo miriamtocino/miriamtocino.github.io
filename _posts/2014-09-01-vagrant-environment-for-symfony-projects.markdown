@@ -3,7 +3,7 @@ layout: post
 title: "Vagrant Environment for Symfony Projects"
 date: September 1, 2014
 tagline: "How to work simultaneously on different projects locally on your computer?"
-tags : [symfony, vagrant]
+categories: [symfony]
 ---
 
 ![Symfony Love Vagrant](http://miriamtocino.github.io/images/posts/symfony-love-vagrant.svg)
@@ -132,4 +132,3 @@ I like to save all the different projects that I am working on in a table like t
 | wonderful-project-2  | 192.168.56.102  | 4321      | wonderful-project-2.dev  | wonderful-project-2  |
 
 Enjoy Symfonying!
-

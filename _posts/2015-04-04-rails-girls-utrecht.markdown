@@ -3,7 +3,7 @@ layout: post
 title: "Rails Girls Utrecht"
 date: April 4, 2015
 tagline: "My first coaching experience"
-tags : [ruby, rails, learning]
+categories: [rails]
 ---
 
 ![Rails Girls Utrecht](http://miriamtocino.github.io/images/posts/rails-girls-utrecht.svg)

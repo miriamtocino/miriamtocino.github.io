@@ -3,7 +3,7 @@ layout: post
 title: "How I Taught Myself to Code"
 date: May 15, 2015
 tagline: "Combining Online Learning Resources"
-tags : []
+categories: []
 ---
 
 Back in 2002 I went to college and studied architecture. At that time pursuing a career in tech did not cross my mind.

@@ -3,7 +3,7 @@ layout: post
 title: "New Year, New Country, New Workspace"
 date: January 12, 2015
 tagline: "And how to optimize your learning flow"
-tags : [productivity, learning]
+categories: [learning]
 ---
 
 I just moved to the Netherlands. I spent last weeks looking for a new place to live, moving my things from Frankfurt, painting the new appartment, doing some cleaning... and trying not to forget that it was Christmas to celebrate. It's been a lot of work, I am glad that it is over now (yuju ☺) and I can show you my new workspace, from where I am writing to you now.

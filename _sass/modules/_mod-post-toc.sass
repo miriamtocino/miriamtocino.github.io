@@ -1,0 +1,37 @@
+// MODULE POST TOC
+// MODULE POST CATEGORIES
+
+.mod-post-toc,
+.mod-post-categories
+
+  @media (min-width: 569px)
+    display: none
+
+    padding-bottom: 20px
+    margin-bottom: 20px
+
+    h4
+      font-weight: 500
+      border-bottom: 1px solid $gray
+      padding-bottom: .5em
+      margin-top: 0
+
+    ul
+      list-style: none !important
+      padding: 0
+      margin: 0
+
+      li:first-child
+        display: none
+
+
+      li
+        padding-left: 1em
+        text-indent: -.7em
+
+        &:before
+          content: "• "
+          color: $color-primary
+
+  @media (min-width: 1025px)
+    display: block

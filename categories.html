@@ -1,0 +1,24 @@
+---
+layout: blank-layout
+title: category
+---
+
+<article class="mod-post categories">
+
+  <h3>Categories</h3>
+  <h4 class="tagline">In case you are looking for something specific</h4>
+
+  {% for category in site.categories %}
+  <h4 class="category-title" id="{{ category[0] }}">{{ category[0] | capitalize }}</h4>
+
+  <ul>
+    {% for post in category[1] %}
+    <article class="mod-post archive">
+      <p class="date">{{ post.date | date_to_long_string }}</p>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+    </article>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+
+</article>

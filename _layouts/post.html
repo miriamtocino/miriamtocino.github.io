@@ -5,8 +5,7 @@ comments: true
 
 <!-- mod-post -->
 <article class="mod-post">
-    <!-- comments-number
-    <a href="#disqus_thread"></a> -->
+
     <p class="date">{{ page.date | date_to_long_string }}</p>
     <h3>{{ page.title }}</h3>
     <h4 class="tagline">{{ page.tagline }}</h4>
@@ -14,13 +13,9 @@ comments: true
 
     <!-- mod-share-post -->
     <div class="alert">
-      <p>
-        If you liked this article,
-        <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=miriamtocino"
-        target="_blank">
-        share it with your followers</a> ♥
-      </p>
+      <p>If you liked this article, <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=miriamtocino" target="_blank">share it with your followers</a> ♥</p>
     </div>
     <!-- /mod-share-post -->
+
 </article>
 <!-- /mod-post -->

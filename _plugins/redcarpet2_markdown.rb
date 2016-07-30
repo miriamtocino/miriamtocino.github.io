@@ -12,11 +12,11 @@ class Redcarpet2Markdown < Redcarpet::Render::HTML
     path = File.join(PYGMENTS_CACHE_DIR, "#{lang}-#{Digest::MD5.hexdigest code}.html")
     cache(path) do
       colorized = Albino.colorize(code, lang.downcase)
-      add_code_tags(colorized, lang)
+      add_code_categories(colorized, lang)
     end
   end
 
-  def add_code_tags(code, lang)
+  def add_code_categories(code, lang)
     code.sub(/<pre>/, "<pre><code class=\"#{lang}\">").
          sub(/<\/pre>/, "</code></pre>")
   end

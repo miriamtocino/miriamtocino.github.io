@@ -3,7 +3,7 @@ layout: post
 title: "tmux configuration from scratch"
 date: March 22, 2016
 tagline: "How I use tmux to code smoother and faster"
-tags : [tmux, vim]
+categories: [tmux, vim]
 ---
 
 ![][tmux-logo]

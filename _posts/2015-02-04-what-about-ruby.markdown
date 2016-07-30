@@ -3,7 +3,7 @@ layout: post
 title: "What About Ruby?"
 date: February 4, 2015
 tagline: "Diving into a new language"
-tags : [ruby, learning]
+categories: [ruby]
 ---
 
 ![What About Ruby](http://miriamtocino.github.io/images/posts/what-about-ruby.svg)
@@ -263,7 +263,7 @@ end
 
 > If you’re iterating with an index, you’re probably doing it wrong
 
-I will let you know what's my experience with it after some time working with the language ☺ 
+I will let you know what's my experience with it after some time working with the language ☺
 
 {% highlight ruby %}
 # range traversal

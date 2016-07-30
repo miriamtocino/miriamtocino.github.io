@@ -20,14 +20,16 @@ permalink: /articles/:title
 paginate: 30
 
 navigation:
+  # - title: Projects
+  #   url: /projects.html
+  - title: Categories
+    url: /categories.html
   - title: Resources
     url: /resources.html
   - title: Elearning
     url: /elearning.html
   - title: Bookshelf
     url: /bookshelf.html
-  # - title: Projects
-  #   url: /projects.html
   - title: Archive
     url: /archive.html
 

@@ -3,7 +3,7 @@ layout: post
 title: "5 Tips to Survive Your First Week"
 date: July 18, 2016
 tagline: "That I learned while starting to use Vim"
-tags : [vim]
+categories: [vim]
 ---
 
 ![][vim-logo]

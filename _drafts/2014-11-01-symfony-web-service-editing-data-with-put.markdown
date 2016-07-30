@@ -3,7 +3,7 @@ layout: post
 title: "Symfony Web Service: Editing Data with PUT"
 date: September 29, 2014
 tagline: "How to build a web service for an iOS app - Part 4"
-tags : [symfony, webservice]
+categories: [symfony, webservice]
 ---
 
 ![Symfony Love Vagrant](http://miriamtocino.github.io/images/web-service-put.svg)

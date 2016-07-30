@@ -3,7 +3,7 @@ layout: post
 title: "Hangman Ruby"
 date: February 16, 2015
 tagline: "Playing around"
-tags : [ruby, learning]
+categories: [ruby]
 ---
 
 ![Hangman Ruby](http://miriamtocino.github.io/images/posts/hangman-ruby.svg)

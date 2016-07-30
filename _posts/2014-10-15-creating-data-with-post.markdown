@@ -3,20 +3,20 @@ layout: post
 title: "Creating Data with POST"
 date: October 15, 2014
 tagline: "Symfony Web Service Part 3"
-tags : [symfony, webservice]
+categories: [symfony]
 ---
 
 ![Creating Data with POST](http://miriamtocino.github.io/images/posts/web-service-post.svg)
 
-_This article is part of a series about how to build a **web wervice for an iOS eLearning iPad app**. So far there have been articles on [Symfony Web Service: Introduction](http://www.miriamtocino.com/articles/symfony-web-service-introduction/) and [Retrieving Data with GET](http://www.miriamtocino.com/articles/retrieving-data-with-get/)._
+This article is part of a series about how to build a **web wervice for an iOS eLearning iPad app**. So far there have been articles on [Symfony Web Service: Introduction](http://www.miriamtocino.com/articles/symfony-web-service-introduction/) and [Retrieving Data with GET](http://www.miriamtocino.com/articles/retrieving-data-with-get/).
 
 - - -
 
-_**NOTE**: The project database stores data coming from different iOS apps. That's why the URIs in this article need to include information about the application we are refering to. If your web service is used just for one application, it won't be necessary that you specify this field in your URIs._
+**NOTE**: The project database stores data coming from different iOS apps. That's why the URIs in this article need to include information about the application we are refering to. If your web service is used just for one application, it won't be necessary that you specify this field in your URIs
 
 - - -
 
-_**NOTE**: The following recommendations come from the [Internet Engineering Task Force (IETF) and the Internet Society](http://en.wikipedia.org/wiki/Internet_Engineering_Task_Force), the principal technical development and standards-setting bodies for the Internet._
+**NOTE**: The following recommendations come from the [Internet Engineering Task Force (IETF) and the Internet Society](http://en.wikipedia.org/wiki/Internet_Engineering_Task_Force), the principal technical development and standards-setting bodies for the Internet.
 
 
 
@@ -261,10 +261,3 @@ _**NOTE**: At the moment of writing this article, there's no standard for how er
 * [API Problem](https://tools.ietf.org/html/draft-nottingham-http-problem-07)
 * [RFC 2616 - Status Code Definitions](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [RESTful APIs in the Real World Episode 1 - Knp University](http://knpuniversity.com/screencast/rest)
-
-
-
-
-
-
-

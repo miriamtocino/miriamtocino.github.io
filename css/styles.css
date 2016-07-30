@@ -1309,6 +1309,18 @@ main aside {
 .mod-post.archive h4 {
   margin-top: 0;
 }
+.mod-post.categories {
+  margin-bottom: 3em;
+}
+.mod-post.categories h4 {
+  margin-top: 0;
+}
+.mod-post.categories .category-title {
+  margin-top: 1em;
+  padding: 0.5em;
+  background: #222222;
+  color: #fff;
+}
 .mod-post hr {
   border-top: 1px solid #777777;
 }
@@ -1549,40 +1561,44 @@ main aside {
   }
 }
 
-/*------------------------------------*\
-    MODULE POST TOC
-\*------------------------------------*/
 @media (min-width: 569px) {
-  .mod-post-toc {
+  .mod-post-toc,
+  .mod-post-categories {
     display: none;
     padding-bottom: 20px;
     margin-bottom: 20px;
   }
-  .mod-post-toc h4 {
+  .mod-post-toc h4,
+  .mod-post-categories h4 {
     font-weight: 500;
     border-bottom: 1px solid #555555;
-    padding-bottom: .5em;
+    padding-bottom: 0.5em;
     margin-top: 0;
   }
-  .mod-post-toc ul {
+  .mod-post-toc ul,
+  .mod-post-categories ul {
     list-style: none !important;
     padding: 0;
     margin: 0;
   }
-  .mod-post-toc ul li:first-child {
+  .mod-post-toc ul li:first-child,
+  .mod-post-categories ul li:first-child {
     display: none;
   }
-  .mod-post-toc ul li {
+  .mod-post-toc ul li,
+  .mod-post-categories ul li {
     padding-left: 1em;
-    text-indent: -.7em;
+    text-indent: -0.7em;
   }
-  .mod-post-toc ul li:before {
+  .mod-post-toc ul li:before,
+  .mod-post-categories ul li:before {
     content: "• ";
     color: #d33682;
   }
 }
 @media (min-width: 1025px) {
-  .mod-post-toc {
+  .mod-post-toc,
+  .mod-post-categories {
     display: block;
   }
 }
@@ -1648,6 +1664,19 @@ main aside {
   color: #0b0b0b !important;
 }
 .alert a:hover {
+  color: #fff !important;
+}
+.alert.about-categories {
+  margin: 0 0 2em;
+  background-color: #d33682;
+  color: #fff;
+  padding: 1em 1em 0.5em;
+  font-weight: normal;
+}
+.alert.about-categories a {
+  color: #0b0b0b !important;
+}
+.alert.about-categories:hover {
   color: #fff !important;
 }
 

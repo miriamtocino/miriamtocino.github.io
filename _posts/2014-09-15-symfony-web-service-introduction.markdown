@@ -3,7 +3,7 @@ layout: post
 title: "Symfony Web Service Introduction"
 date: September 15, 2014
 tagline: "Symfony Web Service Part 1"
-tags : [symfony, webservice]
+categories: [symfony]
 ---
 
 ![Symfony Love Vagrant](http://miriamtocino.github.io/images/posts/web-service-introduction.svg)
@@ -54,5 +54,3 @@ You can continue reading about this topic in the following articles of this seri
 * [RESTful APIs in the Real World Episode 1 - Knp University](http://knpuniversity.com/screencast/rest)
 * [PHP Web Services: APIs for the Modern Web - Lorna Jane Mitchell](http://www.amazon.com/PHP-Web-Services-APIs-Modern-ebook/dp/B00CH9J8NM/ref=sr_1_1_bnp_1_kin?ie=UTF8&qid=1411020934&sr=8-1&keywords=PHP+Web+Services%3A+APIs+for+the+Modern+Web)
 * [REST in Practice: Hypermedia and Systems Architecture - Jim Webber, Savas Parastatidis, Ian Robinson](http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=sr_1_1_bnp_1_kin?ie=UTF8&qid=1410429279&sr=8-1&keywords=rest+in+practice)
-
-
