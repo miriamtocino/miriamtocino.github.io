@@ -32,3 +32,5 @@ This page changes as my attention changes.
 - [The Creative Act: A Way of Being](https://www.goodreads.com/book/show/60965426-the-creative-act)
 - [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/book/show/615570.The_Artist_s_Way)
 - [Turning Pro: Tap Your Inner Power and Create Your Life's Work](https://www.goodreads.com/book/show/14912777-turning-pro)
+- [The Power of When: Discover Your Chronotype](https://www.goodreads.com/book/show/28449255-the-power-of-when)
+- [The Optimized Woman: Using Your Cycle to Achieve Success and Fulfillment](https://www.goodreads.com/book/show/7150557-the-optimized-woman)

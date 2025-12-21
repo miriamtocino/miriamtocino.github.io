@@ -4,142 +4,96 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About Me
 
-This is one long page where I can write about myself without trying to be useful.
-
-Some day, this site may be all that’s left of me.  
-So I might as well write my own small autobiography.
+This is my little corner of the internet, a place for me to write about myself without any pressure to be useful. I figure if this site is still around years from now, it might be nice to have my story here. A sort of mini-autobiography.
 
 *Last updated: 2025-12-21*
 
----
+## A Little Bit of Context
 
-## A timeline, for context
+I believe that to understand someone, it helps to know where they come from. Here’s a quick timeline of my journey so far.
 
-I’ve learned that context matters more than conclusions.
+- **1984**: Born in Spain
+- **2003–2008**: Studied architecture, where I learned how structure creates space.
+- **2009–2013**: Shifted my focus to software and digital systems.
+- **2014–2017**: Worked on projects in education and learning.
+- **2018–2020**: Started taking on more formal roles in managing teams and companies.
+- **2021–present**: Currently working as a chief operating officer, writer, and builder of systems that put people first.
 
-**1985** — born in Spain  
-**2003–2008** — studied architecture; learned how structure holds space  
-**2009–2013** — moved into software and digital systems  
-**2014–2017** — worked in education and learning projects  
-**2018–2020** — began operating teams and companies more formally  
-**2021–present** — chief operating officer, writer, and builder of people-centered systems  
+And in between all of that, there was life: moving to new cities, becoming a mother, and learning how to connect different worlds that don't always speak the same language.
 
-Along the way:  
-moving cities, becoming a mother, learning to translate between worlds that don’t always speak to each other.
+## What I'm Drawn To
 
----
+I've always been curious about what makes things tick. Not just on the surface, with products or companies, but on a deeper level with people. I'm fascinated by how we find meaning, why confusion happens, and how a little bit of clarity can make a big difference.
 
-## What I keep coming back to
+I care more about making sure things make sense together than just moving fast. I'm more interested in getting everyone on the same page than just growing bigger.
 
-I’ve always been drawn to how things work beneath the surface.
+I often find myself in roles that connect:
 
-Not just products or organizations, but people.  
-How meaning forms.  
-How confusion spreads.  
-How clarity changes behavior.
+-   Technology and people
+-   Big ideas and the actual steps to make them happen
+-   What we want to do and what is actually happening
 
-I’m less interested in speed than in coherence.  
-Less interested in scale than in alignment.
+I don't need to be the star of the show. I'm happy to be the person who helps keep everything together.
 
-Over time, I’ve found myself naturally in roles where I sit between:
-- technology and people  
-- strategy and execution  
-- intention and reality  
+## How I Think About Work
 
-I don’t enjoy being at the center.  
-I enjoy helping the center hold.
+I use the word "work," but what I really mean is where I put my attention.
 
----
+I enjoy having long, quiet moments to think deeply about a problem. I love taking something complicated and making it simple enough for everyone to understand. It's a great feeling when a team stops just reacting to problems and starts moving forward with purpose.
 
-## Work, for me
+My best days are usually the quiet ones, spent writing, organizing my thoughts, asking good questions, and listening carefully.
 
-I use the word *work* because it’s convenient, but what I really mean is attention.
+I'm perfectly fine working behind the scenes. Earning trust is more important to me than being in the spotlight.
 
-I like long stretches of focused thinking.  
-I like turning something complex into something simple enough to hold.  
-I like when teams stop reacting and start moving deliberately.
+## My Motivation
 
-My best days are quiet ones:  
-writing, structuring, asking questions, listening carefully.
+I've never really been motivated by job titles or status.
 
-I’m comfortable operating behind the scenes.  
-Trust matters more to me than visibility.
+What really gets me excited is feeling a sense of direction. That feeling you get when you know something meaningful is being created, that people are understanding each other a little better, or that a system is becoming easier for people to use.
 
----
+This has looked different at different times in my life:
 
-## On ambition and direction
+-   Building organizations from the ground up
+-   Writing for parents and children
+-   Creating new ways for people to learn
+-   Helping leadership teams think more clearly
 
-I’ve never been motivated by status or titles.
+Even though the projects change, the reason I do them stays the same.
 
-What moves me is direction:  
-the feeling that something meaningful is taking shape,  
-that people understand each other a little better,  
-that a system becomes easier to live inside.
+## A Gentle Approach to Technology
 
-At different moments, this has shown up as:
-- building organizations  
-- writing for parents and children  
-- creating learning frameworks  
-- helping leadership teams think more clearly  
+I don't see technology as something to be afraid of, but I don't think it's the answer to everything either.
 
-The form changes.  
-The impulse stays the same.
+I see it as a tool that makes things bigger.
 
----
+It can amplify what's already there: clarity or confusion, care or neglect, good intentions or just more noise.
 
-## Technology, gently held
+That's why I'm so interested in how we introduce technology to people, especially to children, teams, and cultures that weren't involved in creating it.
 
-I don’t see technology as progress or threat.
+My goal isn't to fear it or to praise it, but simply to understand it.
 
-I see it as amplification.
+## A Few Things I Believe (For Now)
 
-It amplifies whatever is already there:  
-clarity or confusion,  
-care or neglect,  
-intention or noise.
+-   I prefer to go deep on a few topics rather than knowing a little about everything.
+-   I'd rather have a real conversation than just broadcast my thoughts.
+-   I'm a slow thinker, and I've learned to trust that pace.
 
-That’s why I’m interested in how we introduce technology —  
-especially to children, teams, and cultures that didn’t design it.
+I'm a mother, and that has changed everything for me. It has made my time feel more precious and has made honesty a top priority.
 
-Not to fear it.  
-Not to glorify it.  
-But to understand it.
+I don't think there's one right way to live or work. But I do believe in paying close attention to what's really going on around us.
 
----
-
-## A few personal truths (for now)
-
-I value depth over breadth.  
-I prefer conversations to broadcasting.  
-I think slowly, and I trust that pace.
-
-I’m a mother. That has changed everything.  
-It has made time feel precious and honesty non-negotiable.
-
-I don’t believe there is one right way to live or work.  
-I do believe in paying attention to what is actually happening.
-
----
-
-## Where I am now
+## Where I Am Today
 
 I live in Spain.
 
-I work with people and teams across borders, disciplines, and contexts.
+I work with people and teams from all over the world, in many different fields.
 
-I write to think.  
-I build systems to support people.  
-I try to leave places clearer than I found them.
+I write to help myself think. I build systems to help support people. And in everything I do, I try to leave things a little clearer and better than I found them.
 
----
+## If You've Read This Far
 
-## If you’re still reading
+This page isn't here to convince you of anything.
 
-This page isn’t meant to convince you of anything.
-
-It’s just here so you know who is speaking when you read the rest of the site.
-
-If something here resonates, you’re welcome to stay.  
-If not, that’s fine too.
+It's just a way for you to know who's behind the words on this site. If any of this connects with you, I'm glad you're here.
