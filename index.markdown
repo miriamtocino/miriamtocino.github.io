@@ -31,3 +31,27 @@ If you’d like to say hello, [you can email me](mailto:miriam.tocino@gmail.com)
 ## Search this site
 
 Go to the [search page](/search) to search for any word or phrase.
+
+## Books
+
+Some ideas take more space.
+
+I’m writing a collection of books called [Zerus & Ona](https://www.zerusxona.com), about technology, values, and growing up in a digital world.
+
+See the books at [zerusxona.com/books](https://www.zerusxona.com/books).
+
+## Newest articles ([see all](/blog/))
+
+<ul style="list-style: none; padding-left: 0;">
+  {% for post in site.posts limit:6 %}
+    <li style="margin-bottom: 0.6em;">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Reading
+
+Some books I’m currently reading or returning to.
+
+[See what I’m reading.](/reading)
