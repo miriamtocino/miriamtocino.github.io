@@ -16,8 +16,18 @@ I live in Spain. I work quietly, alongside people building meaningful things.
 
 ## Me in 10 minutes?
 
-See [my "about" page](/about).
+See [my about page](/about).
 
 ## What am I doing now?
 
-See [my “now” page](/now).
+See [my now page](/now).
+
+## Contact me
+
+I’m easy to reach.
+
+If you’d like to say hello, [you can email me](mailto:miriam.tocino@gmail.com). I read everything and reply when I can.
+
+## Search this site
+
+Go to the [search page](/search) to search for any word or phrase.
