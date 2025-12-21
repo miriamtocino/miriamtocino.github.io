@@ -1,46 +1,39 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Miriam Tocino
 ---
 
-## Me in 10 seconds
+## A Little About Me
 
-I’ve spent my life moving between disciplines (architecture, software, education, and operations) learning how people make sense of complexity together.
+I've spent my life exploring different fields, from architecture and software to education and operations. Through it all, my focus has always been on how people work together to make sense of complex things.
 
-I work at the intersection of technology and human systems, helping teams find clarity, alignment, and a steady way forward.
+I work at the intersection of technology and human systems, where I help teams find clarity, get aligned, and move forward with a steady purpose.
 
-I live in Spain. I work quietly, alongside people building meaningful things.
+I live in Spain and enjoy working quietly alongside people who are building meaningful things.
 
-## Me in 10 minutes?
+## Want to Know More?
 
-See [my about page](/about).
+If you'd like the full story, you can read [my about page](/about).
 
-## What am I doing now?
+## What I'm Up To Now
 
-See [my now page](/now).
+To see what I'm currently focused on, check out [my now page](/now).
 
-## Contact me
+## Get in Touch
 
-I’m easy to reach.
+I'm always happy to hear from people. If you'd like to say hello, feel free to [send me an email](mailto:miriam.tocino@gmail.com). I read every message and do my best to reply when I can.
 
-If you’d like to say hello, [you can email me](mailto:miriam.tocino@gmail.com). I read everything and reply when I can.
+## Looking for Something?
 
-## Search this site
+You can use the [search page](/search) to find any word or phrase on the site.
 
-Go to the [search page](/search) to search for any word or phrase.
+## My Books
 
-## Books
+Some ideas need a little more room to grow. I'm currently writing a collection of books called [Zerus & Ona](https://www.zerusxona.com), which explores technology, values, and what it means to grow up in a digital world.
 
-Some ideas take more space.
+You can see the books at [zerusxona.com/books](https://www.zerusxona.com/books).
 
-I’m writing a collection of books called [Zerus & Ona](https://www.zerusxona.com), about technology, values, and growing up in a digital world.
-
-See the books at [zerusxona.com/books](https://www.zerusxona.com/books).
-
-## Newest articles ([see all](/blog/))
+## Recent Articles ([see all](/blog/))
 
 <ul style="list-style: none; padding-left: 0;">
   {% for post in site.posts limit:6 %}
@@ -50,8 +43,8 @@ See the books at [zerusxona.com/books](https://www.zerusxona.com/books).
   {% endfor %}
 </ul>
 
-## Reading
+## What I'm Reading
 
-Some books I’m currently reading or returning to.
+Here are a few of the books I'm currently reading or often return to.
 
-[See what I’m reading.](/reading)
+[See my reading list.](/reading)
