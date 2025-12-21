@@ -33,7 +33,9 @@ Some ideas need a little more room to grow. I'm currently writing a collection o
 
 You can see the books at [zerusxona.com/books](https://www.zerusxona.com/books).
 
-## Recent Articles ([see all](/blog/))
+## Recent Articles 
+
+[See all articles.](/blog/)
 
 <ul style="list-style: none; padding-left: 0;">
   {% for post in site.posts limit:6 %}
