@@ -27,11 +27,11 @@ I'm always happy to hear from people. If you'd like to say hello, feel free to [
 
 You can use the [search page](/search) to find any word or phrase on the site.
 
-## My books
+## My projects
 
-Some ideas need a little more room to grow. I'm currently writing a collection of books called [Zerus & Ona](https://www.zerusxona.com), which explores technology, values, and what it means to grow up in a digital world.
+Long-term explorations I’m building over time.
 
-You can see the books at [zerusxona.com/books](https://www.zerusxona.com/books).
+- [Zerus & Ona](/zerusxona): A storytelling project about growing up human in a digital world.
 
 ## Recent articles 
 
