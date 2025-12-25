@@ -3,7 +3,7 @@ layout: default
 title: Miriam Tocino
 ---
 
-## A Little About Me
+## A little about me
 
 I've spent my life exploring different fields, from architecture and software to education and operations. Through it all, my focus has always been on how people work together to make sense of complex things.
 
@@ -11,29 +11,29 @@ I work at the intersection of technology and human systems, where I help teams f
 
 I live in Spain and enjoy working quietly alongside people who are building meaningful things.
 
-## Want to Know More?
+## Want to know more?
 
 If you'd like the full story, you can read [my about page](/about).
 
-## What I'm Up To Now
+## What I'm up to now
 
 To see what I'm currently focused on, check out [my now page](/now).
 
-## Get in Touch
+## Get in touch
 
 I'm always happy to hear from people. If you'd like to say hello, feel free to [send me an email](mailto:miriam.tocino@gmail.com). I read every message and do my best to reply when I can.
 
-## Looking for Something?
+## Looking for something?
 
 You can use the [search page](/search) to find any word or phrase on the site.
 
-## My Books
+## My books
 
 Some ideas need a little more room to grow. I'm currently writing a collection of books called [Zerus & Ona](https://www.zerusxona.com), which explores technology, values, and what it means to grow up in a digital world.
 
 You can see the books at [zerusxona.com/books](https://www.zerusxona.com/books).
 
-## Recent Articles 
+## Recent articles 
 
 [See all articles.](/blog/)
 
@@ -45,7 +45,7 @@ You can see the books at [zerusxona.com/books](https://www.zerusxona.com/books).
   {% endfor %}
 </ul>
 
-## What I'm Reading
+## What I'm reading
 
 Here are a few of the books I'm currently reading or often return to.
 
